@@ -1,7 +1,7 @@
 {
   "name": "자동쇼츠",
   "description": "YouTube Shorts 전용 다음 영상 자동 넘김",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "manifest_version": 3,
   "icons": {
     "16": "icons/icon-16.png",
