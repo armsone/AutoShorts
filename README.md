@@ -14,7 +14,7 @@ YouTube Shorts 전용으로 쇼츠 영상을 자동으로 넘겨주는 Chrome/�
 
 ## 설치 (압축해제된 확장)
 
-1. [GitHub Releases](https://github.com/armsone/AutoShorts/releases)에서 `AutoShorts-0.1.3.zip` 내려받기
+1. [GitHub Releases](https://github.com/armsone/AutoShorts/releases)에서 `AutoShorts-0.1.4-source.zip` 내려받기
 2. ZIP 파일 압축 풀기
 3. Chrome은 `chrome://extensions`, 네이버 웨일은 `whale://extensions` 열기
 4. 우측 상단의 `개발자 모드`를 켜기
